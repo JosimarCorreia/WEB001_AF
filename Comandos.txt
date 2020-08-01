@@ -1,0 +1,8 @@
+git init
+git clone
+git add *
+git status
+git commit -m "comentários das alterações"
+git push origin master
+git pull
+manege
